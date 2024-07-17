@@ -1,0 +1,32 @@
+path: ../datasets/roboflow
+
+train: D:\semester 6\pengantar kecerdasan buatan 2\objectdetection1\train\images
+val: D:\semester 6\pengantar kecerdasan buatan 2\objectdetection1\valid\images
+test: D:\semester 6\pengantar kecerdasan buatan 2\objectdetection1\test\images
+                  
+names: 
+  0: Soffa
+  1: Television
+  2: ac
+  3: bag            
+  4: bicycle
+  5: book
+  6: bottle
+  7: cat  
+  8: chair
+  9: clock
+  10: dog
+  11: glass
+  12: glasses
+  13: handphone
+  14: hat
+  15: keyboard
+  16: komputer
+  17: laptop
+  18: marker
+  19: mouse
+  20: pen
+  21: person
+  22: plate
+  23: remote
+  24: table
